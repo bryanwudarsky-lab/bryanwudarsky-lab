@@ -3,7 +3,7 @@
 Financial Analysis · Business Analysis · Operations
 
 Tampa Bay, FL | bryanwudarsky@gmail.com | [linkedin.com/in/bryanwudarsky](https://www.linkedin.com/in/bryanwudarsky)
-Portfolio: (link added at launch)
+Portfolio: [bryanwudarsky-lab.github.io](https://bryanwudarsky-lab.github.io)
 
 I'm a Tampa-raised USF business graduate (B.S. Personal Financial Planning and B.S. Marketing),
 back home in Tampa Bay and looking for a company to grow with for the long haul, in financial
@@ -97,7 +97,7 @@ above: the process, the numbers, what broke, and what changed.
 ## Contact
 
 bryanwudarsky@gmail.com | [linkedin.com/in/bryanwudarsky](https://www.linkedin.com/in/bryanwudarsky)
-Portfolio: (link added at launch)
+Portfolio: [bryanwudarsky-lab.github.io](https://bryanwudarsky-lab.github.io)
 
 Ask me to walk through any number on this page or the four behind it. Each one has a written
 record: the schema, the gate scripts, the incident notes, and the design decisions.
